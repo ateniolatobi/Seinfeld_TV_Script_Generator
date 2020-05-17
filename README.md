@@ -4,7 +4,6 @@
 
 ## Description
 
-This project is the third project of the _Deep Learning nanodegree_, schooled by **Udacity, Inc.** ([https://eu.udacity.com](https://eu.udacity.com/)), a for-profit educational organization offering massive open online courses.
 
 The project objective is to provide a deep learning algorithm that can  **generate original and consistent TV scripts**  based on the American television sitcom  **Seinfeld**  ([https://en.wikipedia.org/wiki/Seinfeld](https://en.wikipedia.org/wiki/Seinfeld)): To achieve this objective a RNN (recurrent neural network) has been used and trained on the scripts of all of the episodes of the 9 seasons of the sitcom.
 
